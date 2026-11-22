@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+models/
+moodify_history.db
+.streamlit/
